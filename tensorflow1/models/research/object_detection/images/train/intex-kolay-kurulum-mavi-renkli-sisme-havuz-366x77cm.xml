@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>intex-kolay-kurulum-mavi-renkli-sisme-havuz-366x77cm.-28130-kc2598392-1-65f7bd2f3a4c4a1687dfb304433b6fdc.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\intex-kolay-kurulum-mavi-renkli-sisme-havuz-366x77cm.-28130-kc2598392-1-65f7bd2f3a4c4a1687dfb304433b6fdc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>havuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>255</ymin>
+			<xmax>566</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

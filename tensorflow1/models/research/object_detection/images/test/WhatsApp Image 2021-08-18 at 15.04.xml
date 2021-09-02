@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WhatsApp Image 2021-08-18 at 15.04.54.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\WhatsApp Image 2021-08-18 at 15.04.54.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>havuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>783</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

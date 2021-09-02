@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2_Yetişkinler-için-Yerden-366-76cm-Dev-Boy-Mavi-Şişme-Havuz-Aile-Havuzu-B33004-Kalınlaşma-Yaz-Su-Havuzu-Çocuklar-60422.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\2_Yetişkinler-için-Yerden-366-76cm-Dev-Boy-Mavi-Şişme-Havuz-Aile-Havuzu-B33004-Kalınlaşma-Yaz-Su-Havuzu-Çocuklar-60422.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>havuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>71</ymin>
+			<xmax>345</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

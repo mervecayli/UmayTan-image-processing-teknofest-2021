@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>intex-easy-kolay-kurulum-mavi-renkli-havuz-183-51cm-22618-jpg.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\intex-easy-kolay-kurulum-mavi-renkli-havuz-183-51cm-22618-jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>havuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>326</ymin>
+			<xmax>934</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

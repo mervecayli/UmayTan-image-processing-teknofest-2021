@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>kisspng-red-computer-icons-circle-clip-art-high-quality-glossy-ball-cliparts-for-free-5ab14c6eaa2815.267752301521568878697.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\kisspng-red-computer-icons-circle-clip-art-high-quality-glossy-ball-cliparts-for-free-5ab14c6eaa2815.267752301521568878697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>su birakma alani</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>260</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

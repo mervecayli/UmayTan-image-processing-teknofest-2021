@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>button-png-5a37716a990f26.2072069815135829546269.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\button-png-5a37716a990f26.2072069815135829546269.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>su birakma alani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>29</ymin>
+			<xmax>746</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

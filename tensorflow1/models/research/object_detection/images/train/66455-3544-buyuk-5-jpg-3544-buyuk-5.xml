@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>66455-3544-buyuk-5-jpg-3544-buyuk-5.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\66455-3544-buyuk-5-jpg-3544-buyuk-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1522</width>
+		<height>1574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>havuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>705</ymin>
+			<xmax>1261</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+</annotation>

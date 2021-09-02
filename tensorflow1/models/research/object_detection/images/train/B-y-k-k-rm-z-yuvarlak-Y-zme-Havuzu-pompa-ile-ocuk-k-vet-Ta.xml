@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>B-y-k-k-rm-z-yuvarlak-Y-zme-Havuzu-pompa-ile-ocuk-k-vet-Ta.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\B-y-k-k-rm-z-yuvarlak-Y-zme-Havuzu-pompa-ile-ocuk-k-vet-Ta.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>su birakma alani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>142</ymin>
+			<xmax>794</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>
